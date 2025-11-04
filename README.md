@@ -50,8 +50,6 @@ The script `analyze_product_funnel.py` was used to prepare clean data for analys
 - Filtered timeframe (2020–2026)  
 - Exported processed dataset → `cleaned_mobile_app_data.csv`
 
-> 🧩 Implemented entirely in **Python (Pandas)** using **VS Code** for reproducible transformations.
-
 ---
 
 ## 📊 Key Metrics & KPIs
@@ -100,4 +98,5 @@ An alternate version designed in **Tableau** using the same dataset:
 - Designed KPI-driven storytelling dashboards in **Power BI** & **Tableau**.  
 - Explored **funnel analysis**, **DAU tracking**, and **user segmentation**.  
 - Practiced effective visualization design and cross-tool comparison.
+
 
