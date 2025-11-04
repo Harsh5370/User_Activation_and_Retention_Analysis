@@ -86,9 +86,6 @@ An alternate version designed in **Tableau** using the same dataset:
 - Heatmap of feature adoption  
 - KPI cards, funnels, and OS usage analysis  
 
-🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/UserActivationRetentionDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
-
 ---
 
 ## 💡 Learnings & Highlights
@@ -98,5 +95,6 @@ An alternate version designed in **Tableau** using the same dataset:
 - Designed KPI-driven storytelling dashboards in **Power BI** & **Tableau**.  
 - Explored **funnel analysis**, **DAU tracking**, and **user segmentation**.  
 - Practiced effective visualization design and cross-tool comparison.
+
 
 
